@@ -1,0 +1,102 @@
+/* @media screen and (max-width: 1024px)  */
+
+@media screen and (max-width: 1024px) {
+
+.section-padding {
+  padding: 50px 0  0px;
+}
+
+.projects-titles {
+  text-align: center;
+  margin: 0 0 30px;
+}
+
+.parent-container {
+  padding: 10px 0 50px;
+  text-align: center;
+}
+
+#contact {
+  text-transform: capitalize;
+  padding: 50px 0;
+  background-color: #191818;
+}
+
+  }
+
+  /* @media screen and (max-width: 768px) */
+
+@media screen and (max-width: 768px) {
+
+  nav ul li a {
+    padding: 5px 15px;
+}
+
+.h-btn{
+  padding: 10px 40px;
+  margin-top: 10px;
+}
+
+h2{
+  font-size: 40px !important;
+}
+
+.section-padding {
+  padding: 30px 0;
+}
+
+.food-menu {
+  margin-bottom: 30px;
+}
+
+.projects-titles {
+  text-align: center;
+  margin: 0 0 30px;
+}
+
+.projects-titles li {
+  padding-right: 0 10px;
+  font-size: 15px;
+}
+
+.panel-area {
+  margin: 50px 0;
+}
+
+.left {
+    width: 100%;
+}
+
+.left::after {
+    display: none;
+}
+
+.left h3 {
+    margin-top: 20px;
+}
+
+.right {
+    display: none;
+}
+
+.left button {
+  margin: 15px auto;
+}
+
+.parent-container {
+  padding: 10px 0 50px;
+}
+
+.parent-container img {
+  margin: 15px auto;
+  display: block;
+}
+
+#contact {
+  text-transform: capitalize;
+  padding: 50px 0;
+  background-color: #191818;
+}
+
+  }
+
